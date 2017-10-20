@@ -14,6 +14,7 @@
   <li class="fragment"><span style="font-size: 80%">Rails Version 1.0 wurde im Dezember 2005 released</span></li>
   <li class="fragment"><span style="font-size: 80%">2007 Version 2.0 mit REST als Plattform für Web Services</span></li>
   <li class="fragment"><span style="font-size: 80%">Rails 5.1 im April 2017 mit Webpacker und System tests</span></li>
+  <li class="fragment"><span style="font-size: 80%">Aktuell: Rails 5.1.4 vom 7. September 2017</span></li>
 </ul>
 
 Note: 
