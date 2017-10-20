@@ -16,7 +16,7 @@
   <li class="fragment">
     <span style="font-size: 80%">Rails 5.1 im April 2017 mit Webpacker und System tests</span>
     <br>
-    <span style="font-size: 80%; color: #e49436">ohne</span><span style="font-size: 80%">jQuery als default dependency</span>
+    <span style="font-size: 80%">aber </span><span style="font-size: 80%; color: #e49436">ohne</span><span style="font-size: 80%"> jQuery als default dependency</span>
   </li>
   <li class="fragment"><span style="font-size: 80%">Aktuell: Rails 5.1.4 vom 7. September 2017</span></li>
 </ul>
