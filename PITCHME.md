@@ -47,33 +47,56 @@ HTTP-Header manipulieren
 ---
 @title[Ruby]
 
-### <span style="color: #e49436">STEP 1. Create 'PITCHME.md'</span>
-<br>
+### Ruby
+- Entworfen von Yukihiro Matsumoto
+- Ziel: Flexibilität, Ausdrucksstärke und Einfachheit |
+- Synthes aus Perl, Smalltalk, Eiffel, Ada und Lisp |
+- sollte objektorientierter als Python und zugleich mächtiger als Perl sein |
 
-#### Create GitPitch slideshow content using GitHub Flavored Markdown in your favorite editor.
-
-<br>
-<span style="color:gray; font-size:0.6em;">[ AS EASY AS README.md ]</span>
+Note:
+Wenn du Java, JavaScript, PHP, Perl, oder Python kennst, wird Ruby für dich leicht zu erlernen sein
 
 ---
-@title[Step 2. Git-Commit]
+@title[Rails Sample Code]
 
-### <span style="color: #e49436">STEP 2. GIT-COMMIT</span>
+### <span style="color: #e49436">Lesbarkeit</span>
+<br>
+
+```ruby
+class Project < ApplicationRecord 
+  belongs_to :portfolio
+
+  has_one :project_manager
+  has_many :milestones
+  has_many :deliverables, through: milestones
+
+  validates :name, :description, presence: true 
+  validates :non_disclosure_agreement, acceptance: true 
+  validates :short_name, uniqueness: true
+end
+```
+
+---
+@title[Rails Live Code]
+
+### <span style="color: #e49436">Live Code</span>
 <br>
 
 ```shell
-$ git add PITCHME.md
-$ git commit -m "New slideshow content."
-$ git push
+$ rails _5.1.4_ new serom-demo
+$ cd serom-demo
+$ bin/rails about
+$ bin/rails server
 
-Done!
-
+open browser http://localhost:3000/
 ```
 
-@[1](Add your PITCHME.md slideshow content file.)
-@[2](Commit PITCHME.md to your local repo.)
-@[3](Push PITCHME.md to your public repo and you're done!)
-@[5](Supports GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.)
++++
+
+```shell
+$ bin/rails generate scaffold Product \
+            title:string description:text image_url:string price:decimal
+```
 
 ---
 @title[Step 3. Done!]
