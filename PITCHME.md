@@ -9,13 +9,25 @@
 +++
 
 ## Über mich
+#### Mitgründer und Entwickler bei @sovido
 <br>
-- <span style="font-size: 0.8em;">https://twitter.com/<span style="color: #e49436">dirksiemers</span></span>
-- <span style="font-size: 0.8em;">https://github.com/<span style="color: #e49436">dirksiemers</span></span>
-- <span style="font-size: 0.8em;">https://getpocket.com/<span style="color: #e49436">@dirksiemers</span></span>
-<br>
-#### Co-founder and Developer at @sovido
+<span style="font-size: 0.8em;">
+  <span style="color:white">htt</span>
+  <span style="color:white">ps://twitter.com/</span>
+  <span style="color: #e49436">dirksiemers</span>
+</span>
 
+<span style="font-size: 0.8em;">
+  <span style="color:white">htt</span>
+  <span style="color:white">ps://github.com/</span>
+  <span style="color: #e49436">dirksiemers</span>
+</span>
+
+<span style="font-size: 0.8em;">
+  <span style="color:white">htt</span>
+  <span style="color:white">ps://getpocket.com/</span>
+  <span style="color: #e49436">@dirksiemers</span>
+</span>
 
 ---
 @title[Rails]
