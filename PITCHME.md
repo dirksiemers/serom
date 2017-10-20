@@ -1,30 +1,45 @@
-@title[Introduction]
-# Git<span style="color: #e49436">Pitch</span>
+@title[Rails loving Javascript]
+# Rails <span style="color: #e49436">loving</span> Javascript
 
-#### Markdown Presentations For Everyone on Git.*
+#### Eine Reise hin und wieder zurück*
 <br>
 <br>
-<span style="color: #bbb; font-size: 80%">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
+<span style="color: #bbb; font-size: 80%">[ Rails, Ruby, jQuery, ES6, NPM, Yarn, Webpack]</span>
 
 ---
-@title[PITCHME.md]
+@title[Rails]
+Note: 
+Representational State Transfer (GET POST PUT DELETE in der HTTP Schicht, zustandslos)
 
-#### GitPitch turns <span style="color: #e49436; text-transform: none">PITCHME.md</span> into
-#### interactive,
-#### online and offline slideshows.
+#### Rails Version 1.0 wurde im Dezember 2005 released
+#### 2 Jahre später Version 2.0 mit REST als Plattform für Web Services
+#### Rails 5.1 im April 2017 mit Webpacker und System tests
+
+---
+
+#### Rails fühlt sich einfach richtig an.
+
+---
+Note:
+Datenbanken wie z.B. SQLite, DB2, Informix, MySQL, Oracle, PostgreSQL und Microsoft SQL Server
+HTML, XML – z. B. für XHTML und Web Services, JavaScript – RJS-Templates, Binärdaten
+Templatesysteme: ERB für (X)HTML und Javascript, Builder für XML, Haml, Sass, CoffeeScript
+HTTP-Header manipulieren
+#### MVC <span style="color: #e49436">Model View Controller</span>.
 <br>
-<span style="color:gray; font-size:0.6em;">[ JUST LIKE THIS ONE ]</span>
+#### M <span style="color: gray">ActiveRecord, die ORM-Schicht</span>
+#### C <span style="color: gray">ActionController, die Steuerungsschicht (auch REST)</span>
+#### V <span style="color: gray">ActionView, die Präsentationsschicht</span>
 
 ---
 
-#### No more <span style="color: gray">Keynote.</span>
-#### No more <span style="color: gray">Powerpoint.</span>
+## Philosophie
 <br>
-#### Just <span style="color: #e49436">Markdown</span>.
-#### Then <span style="color: #e49436">Git-Commit</span>.
+#### DRY <span style="color: gray">Don’t repeat yourself.</span>
+#### <span style="color: gray">Convention over Configuration.</span>
 
 ---
-@title[Step 1. Create 'PITCHME.md']
+@title[Ruby]
 
 ### <span style="color: #e49436">STEP 1. Create 'PITCHME.md'</span>
 <br>
