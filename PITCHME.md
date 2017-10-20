@@ -6,6 +6,16 @@
 <br>
 <span style="color: #bbb; font-size: 80%">[Rails, Ruby, jQuery, ES6, NPM, Yarn, Webpack]</span>
 
++++
+
+## Über mich
+<br>
+<span style="font-size: 1.3em;">
+  <span style="color:white">Twitter: </span>
+  <span style="color:white">https://twitter.com/</span>
+  <span style="color: #e49436">dirksiemers</span>
+</span>
+
 ---
 @title[Rails]
 ### Es war einmal...
