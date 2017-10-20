@@ -8,9 +8,11 @@
 
 ---
 @title[Rails]
-- <span class="fragment"><span style="font-size: 80%">Rails Version 1.0 wurde im Dezember 2005 released</span></span> <!-- .element: class="fragment" data-fragment-index="1" -->
-- <span class="fragment"><span style="font-size: 80%">2 Jahre später Version 2.0 mit REST als Plattform für Web Services</span></span> <!-- .element: class="fragment" data-fragment-index="2" -->
-- <span class="fragment"><span style="font-size: 80%">Rails 5.1 im April 2017 mit Webpacker und System tests</span></span> <!-- .element: class="fragment" data-fragment-index="3" -->
+<ul>
+  <li class="fragment"><span style="font-size: 80%">Rails Version 1.0 wurde im Dezember 2005 released</span></li>
+  <li class="fragment"><span style="font-size: 80%">2007 Version 2.0 mit REST als Plattform für Web Services</span></li>
+  <li class="fragment"><span style="font-size: 80%">Rails 5.1 im April 2017 mit Webpacker und System tests</span></li>
+</ul>
 
 Note: 
 Representational State Transfer (GET POST PUT DELETE in der HTTP Schicht, zustandslos)
@@ -23,9 +25,11 @@ Representational State Transfer (GET POST PUT DELETE in der HTTP Schicht, zustan
 
 ### MVC (<span style="color: #e49436">Model View Controller</span>)
 <br>
-- <span class="fragment"><span style="color: #e49436">M</span><span style="font-size: 80%">   ActiveRecord, die ORM-Schicht</span></span><!-- .element: class="fragment" data-fragment-index="1" -->
-- <span class="fragment"><span style="color: #e49436">C</span><span style="font-size: 80%">   ActionController, die Steuerungsschicht (auch REST)</span></span><!-- .element: class="fragment" data-fragment-index="2" -->
-- <span class="fragment"><span style="color: #e49436">V</span><span style="font-size: 80%">   ActionView, die Präsentationsschicht</span></span><!-- .element: class="fragment" data-fragment-index="3" -->
+<ul>
+  <li class="fragment"><span style="color: #e49436">M</span><span style="font-size: 80%">   ActiveRecord, die ORM-Schicht</span></li>
+  <li class="fragment"><span style="color: #e49436">C</span><span style="font-size: 80%">   ActionController, die Steuerungsschicht (auch REST)</span></li>
+  <li class="fragment"><span style="color: #e49436">V</span><span style="font-size: 80%">   ActionView, die Präsentationsschicht</span></li>
+</ul>
 
 Note:
 Datenbanken wie z.B. SQLite, DB2, Informix, MySQL, Oracle, PostgreSQL und Microsoft SQL Server
