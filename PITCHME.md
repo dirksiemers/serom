@@ -8,9 +8,9 @@
 
 ---
 @title[Rails]
-- <span style="font-size: 90%">Rails Version 1.0 wurde im Dezember 2005 released</span> <!-- .element: class="fragment" data-fragment-index="1" -->
-- <span style="font-size: 90%">2 Jahre später Version 2.0 mit REST als Plattform für Web Services</span> <!-- .element: class="fragment" data-fragment-index="2" -->
-- <span style="font-size: 90%">Rails 5.1 im April 2017 mit Webpacker und System tests</span> <!-- .element: class="fragment" data-fragment-index="3" -->
+- <span class="fragment"><span style="font-size: 80%">Rails Version 1.0 wurde im Dezember 2005 released</span></span> <!-- .element: class="fragment" data-fragment-index="1" -->
+- <span class="fragment"><span style="font-size: 80%">2 Jahre später Version 2.0 mit REST als Plattform für Web Services</span></span> <!-- .element: class="fragment" data-fragment-index="2" -->
+- <span class="fragment"><span style="font-size: 80%">Rails 5.1 im April 2017 mit Webpacker und System tests</span></span> <!-- .element: class="fragment" data-fragment-index="3" -->
 
 Note: 
 Representational State Transfer (GET POST PUT DELETE in der HTTP Schicht, zustandslos)
@@ -23,9 +23,9 @@ Representational State Transfer (GET POST PUT DELETE in der HTTP Schicht, zustan
 
 ### MVC (<span style="color: #e49436">Model View Controller</span>)
 <br>
-- <span style="color: #e49436">M</span><span style="color: gray; font-size: 90%">ActiveRecord, die ORM-Schicht</span><!-- .element: class="fragment" data-fragment-index="1" -->
-- <span style="color: #e49436">C</span><span style="color: gray; font-size: 90%">ActionController, die Steuerungsschicht (auch REST)</span><!-- .element: class="fragment" data-fragment-index="2" -->
-- <span style="color: #e49436">V</span><span style="color: gray; font-size: 90%">ActionView, die Präsentationsschicht</span><!-- .element: class="fragment" data-fragment-index="3" -->
+- <span class="fragment"><span style="color: #e49436">M</span><span style="font-size: 80%">   ActiveRecord, die ORM-Schicht</span></span><!-- .element: class="fragment" data-fragment-index="1" -->
+- <span class="fragment"><span style="color: #e49436">C</span><span style="font-size: 80%">   ActionController, die Steuerungsschicht (auch REST)</span></span><!-- .element: class="fragment" data-fragment-index="2" -->
+- <span class="fragment"><span style="color: #e49436">V</span><span style="font-size: 80%">   ActionView, die Präsentationsschicht</span></span><!-- .element: class="fragment" data-fragment-index="3" -->
 
 Note:
 Datenbanken wie z.B. SQLite, DB2, Informix, MySQL, Oracle, PostgreSQL und Microsoft SQL Server
@@ -35,10 +35,10 @@ HTTP-Header manipulieren
 
 ---
 
-# Philosophie
+## Philosophie
 <br>
-## <span style="color: #e49436">Don’t repeat yourself.</span>
-## <span style="color: #e49436">Convention over Configuration.</span>
+### <span style="color: #e49436">Don’t repeat yourself.</span>
+### <span style="color: #e49436">Convention over Configuration.</span>
 
 ---
 @title[Ruby]
