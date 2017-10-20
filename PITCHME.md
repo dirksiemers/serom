@@ -199,12 +199,17 @@ $ yarn add bootstrap
 ```
 
 ```ruby
-Rails.application.config.assets.paths << Rails.root.join('node_modules')
-
 # In app/assets/stylesheets/application.css:
 *= require bootstrap/dist/css/bootstrap
 
 # In app/assets/javascripts/application.js:
 //= require bootstrap/dist/js/bootstrap
-```
 
+# In app/views/layouts/application.html.erb
+<div class="container">
+  <%= yield %>
+</div>
+
+# In app/views/products/index.html.erb
+<table class="table">
+```
