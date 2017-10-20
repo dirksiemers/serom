@@ -140,7 +140,7 @@ JSON
 +++
 
 ![History of JS Evolution](assets/history-javascript-evolution-es6.png)
-<figcaption><span style="font-size: 0.5em;">http://adrianmejia.com/blog/2016/10/19/Overview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015/</span></figcaption>
+<figcaption><span style="font-size: 0.4em;">http://adrianmejia.com/blog/2016/10/19/Overview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015/</span></figcaption>
 
 Note:
 European Computer Manufacturers Association (ECMA)
