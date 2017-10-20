@@ -227,3 +227,8 @@ $ yarn add bootstrap
 # In app/views/products/index.html.erb
 <table class="table">
 ```
+
+---
+@title[Thanks]
+
+# <span style="color: #e49436">Danke</span>
