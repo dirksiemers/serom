@@ -123,49 +123,33 @@ $ bin/rails server
 <a style="font-size:0.6em;" href="https://localhost:3000/products" target="_blank">[ Browser öffnen ]</a>
 
 Note:
+Migration
 JSON
 
 ---
-@title[Javascript]
+@title[JavaScript History]
 
-### <span style="color: #e49436">STEP 3. GET THE WORD OUT!</span>
-
+### JavaScript History
 <br>
+- Skriptsprache
+- ursprünglich LiveScript
+- nur wenige Gemeinsamkeiten mit Java
+- dynamische Manipulation von Webseiten
+- JavaScript kann im Hintergrund interagieren (Ajax)
+- Nutzung z.B in MongoDB und Microcontrollern
 
-<span style="font-size: 1.3em;"><span style="color:white">htt</span><span style="color:white">ps://git</span><span style="color: #e49436">pitch</span><span style="color: white">.com/<span style="color: #e49436">user</span>/<span style="color: #e49436">repo</span>/<span style="color: #e49436">branch</span></span>
++++?image=assets/history-javascript-evolution-es6.png
 
-<br>
-
-#### Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
+Note:
+European Computer Manufacturers Association (ECMA)
+Asyn-chronous JavaScript and XML
 
 ---
-@title[Slide Rich]
+@title[Loving JavaScript]
 
-### <span style="color: #e49436">Slide Rich</span>
-
-#### Code Presenting for Blocks, Files, and GISTs
-#### Image, Video, Chart, and Math Slides
-#### Multiple Themes With Easy Customization
+### Loving JavaScript
 <br>
-#### <span style="color: #e49436">Plus collaboration is built-in...</span>
-#### Your Slideshow Is Part Of Your Project
-#### Under Git Version Control Within Your Git Repo
+- mit ES6 (Juni 2015) Klassen und Module
+- Paketmanager NPM
 
 ---
-
-@title[Feature Rich]
-
-### <span style="color: #e49436">Feature Rich</span>
-
-#### Present Online or Offline
-#### With Speaker Notes Support
-#### Print Presentation as PDF
-#### Auto-Generated Table-of-Contents
-#### Share Presentation on Twitter or LinkedIn
-
----
-
-### Go for it.
-### Just add <span style="color: #e49436; text-transform: none">PITCHME.md</span> ;)
-<br>
-<a style="font-size:0.6em;" href="https://github.com/gitpitch/gitpitch/wiki">[ Click To Learn More On Wiki ]</a>
