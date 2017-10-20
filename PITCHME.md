@@ -120,7 +120,7 @@ $ bin/rails db:migrate
 $ bin/rails server
 ```
 
-<a style="font-size:0.6em;" href="https://localhost:3000/products">[ Browser öffnen ]</a>
+<a style="font-size:0.6em;" href="https://localhost:3000/products" target="_blank">[ Browser öffnen ]</a>
 
 Note:
 JSON
