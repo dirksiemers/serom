@@ -8,6 +8,8 @@
 
 ---
 @title[Rails]
+### Es war einmal...
+<br>
 <ul>
   <li class="fragment"><span style="font-size: 80%">Rails Version 1.0 wurde im Dezember 2005 released</span></li>
   <li class="fragment"><span style="font-size: 80%">2007 Version 2.0 mit REST als Plattform für Web Services</span></li>
@@ -50,7 +52,7 @@ HTTP-Header manipulieren
 ### Ruby
 - Entworfen von Yukihiro Matsumoto
 - Ziel: Flexibilität, Ausdrucksstärke und Einfachheit |
-- Synthes aus Perl, Smalltalk, Eiffel, Ada und Lisp |
+- Synthese aus Perl, Smalltalk, Eiffel, Ada und Lisp |
 - sollte objektorientierter als Python und zugleich mächtiger als Perl sein |
 
 Note:
@@ -95,7 +97,8 @@ open browser http://localhost:3000/
 
 ```shell
 $ bin/rails generate scaffold Product \
-            title:string description:text image_url:string price:decimal
+            title:string description:text \
+            image_url:string price:decimal
 ```
 
 ---
