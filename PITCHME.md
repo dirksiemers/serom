@@ -1,35 +1,37 @@
 @title[Rails loving Javascript]
 # Rails <span style="color: #e49436">loving</span> Javascript
 
-#### Eine Reise hin und wieder zurück*
+#### Eine Reise hin und wieder zurück
 <br>
 <br>
 <span style="color: #bbb; font-size: 80%">[ Rails, Ruby, jQuery, ES6, NPM, Yarn, Webpack]</span>
 
 ---
 @title[Rails]
-Note: 
-Representational State Transfer (GET POST PUT DELETE in der HTTP Schicht, zustandslos)
-
 #### Rails Version 1.0 wurde im Dezember 2005 released
 #### 2 Jahre später Version 2.0 mit REST als Plattform für Web Services
 #### Rails 5.1 im April 2017 mit Webpacker und System tests
+
+Note: 
+Representational State Transfer (GET POST PUT DELETE in der HTTP Schicht, zustandslos)
 
 ---
 
 #### Rails fühlt sich einfach richtig an.
 
 ---
-Note:
-Datenbanken wie z.B. SQLite, DB2, Informix, MySQL, Oracle, PostgreSQL und Microsoft SQL Server
-HTML, XML – z. B. für XHTML und Web Services, JavaScript – RJS-Templates, Binärdaten
-Templatesysteme: ERB für (X)HTML und Javascript, Builder für XML, Haml, Sass, CoffeeScript
-HTTP-Header manipulieren
+
 #### MVC <span style="color: #e49436">Model View Controller</span>.
 <br>
 #### M <span style="color: gray">ActiveRecord, die ORM-Schicht</span>
 #### C <span style="color: gray">ActionController, die Steuerungsschicht (auch REST)</span>
 #### V <span style="color: gray">ActionView, die Präsentationsschicht</span>
+
+Note:
+Datenbanken wie z.B. SQLite, DB2, Informix, MySQL, Oracle, PostgreSQL und Microsoft SQL Server
+HTML, XML – z. B. für XHTML und Web Services, JavaScript – RJS-Templates, Binärdaten
+Templatesysteme: ERB für (X)HTML und Javascript, Builder für XML, Haml, Sass, CoffeeScript
+HTTP-Header manipulieren
 
 ---
 
