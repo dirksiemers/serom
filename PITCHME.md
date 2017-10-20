@@ -140,7 +140,7 @@ JSON
 +++
 
 ![History of JS Evolution](assets/history-javascript-evolution-es6.png)
-<figcaption>http://adrianmejia.com/blog/2016/10/19/Overview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015/</figcaption>
+<figcaption><span style="font-size: 0.5em;">http://adrianmejia.com/blog/2016/10/19/Overview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015/</span></figcaption>
 
 Note:
 European Computer Manufacturers Association (ECMA)
@@ -153,5 +153,58 @@ Asyn-chronous JavaScript and XML
 <br>
 - mit ES6 (Juni 2015) Klassen und Module
 - Paketmanager NPM
+- Dependency-Management mit Yarn
+- Bündelung aller Assets mit Webpacker
+- Rails unterstützt aktuell React, Angular und Vue
+
+Note:
+Yarn: Bundler for JavaScript (Yehuda Katz (Ember.js))
 
 ---
+@title[Rails React Live Code]
+
+### <span style="color: #e49436">Adding React & Dependencies</span>
+<br>
+
+Webpacker als gem hinzufügen 
+```ruby
+gem 'webpacker', '~> 3.0'
+```
+
+```shell
+$ bin/rails webpacker:install
+$ bin/rails webpacker:install:react
+```
+
++++
+
+### <span style="color: #e49436">Insert React</span>
+<br>
+
+```ruby
+<%= javascript_pack_tag("hello_react") %>
+```
+
+```shell
+$ bin/webpack-dev-server
+```
+
++++
+
+### <span style="color: #e49436">Use Yarn</span>
+<br>
+
+```shell
+$ yarn add bootstrap
+```
+
+```ruby
+Rails.application.config.assets.paths << Rails.root.join('node_modules')
+
+# In app/assets/stylesheets/application.css:
+*= require bootstrap/dist/css/bootstrap
+
+# In app/assets/javascripts/application.js:
+//= require bootstrap/dist/js/bootstrap
+```
+
