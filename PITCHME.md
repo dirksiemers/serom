@@ -132,13 +132,14 @@ JSON
 ### JavaScript History
 <br>
 - Skriptsprache
-- ursprünglich LiveScript
-- nur wenige Gemeinsamkeiten mit Java
-- dynamische Manipulation von Webseiten
-- JavaScript kann im Hintergrund interagieren (Ajax)
-- Nutzung z.B in MongoDB und Microcontrollern
+- ursprünglich LiveScript |
+- nur wenige Gemeinsamkeiten mit Java |
+- dynamische Manipulation von Webseiten |
+- Nutzung z.B in MongoDB und Microcontrollern |
 
-+++?image=assets/history-javascript-evolution-es6.png
++++
+
+![History of JS Evolution](assets/history-javascript-evolution-es6.png)
 
 Note:
 European Computer Manufacturers Association (ECMA)
