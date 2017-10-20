@@ -54,7 +54,7 @@ HTTP-Header manipulieren
 ---
 @title[Ruby]
 
-### Ruby
+### Rails nutzt <span style="color: #e49436">Ruby</span>
 - Entworfen von Yukihiro Matsumoto
 - Ziel: Flexibilität, Ausdrucksstärke und Einfachheit |
 - Synthese aus Perl, Smalltalk, Eiffel, Ada und Lisp |
