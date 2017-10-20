@@ -114,10 +114,17 @@ $ code .
 $ bin/rails generate scaffold Product \
             title:string description:text \
             image_url:string price:decimal
+$ bin/rails db:migrate   
+$ bin/rails server
 ```
 
+<a style="font-size:0.6em;" href="https://localhost:3000/products">[ Browser öffnen ]</a>
+
+Note:
+JSON
+
 ---
-@title[Step 3. Done!]
+@title[Javascript]
 
 ### <span style="color: #e49436">STEP 3. GET THE WORD OUT!</span>
 
