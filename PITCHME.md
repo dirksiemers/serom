@@ -10,10 +10,9 @@
 
 ## Über mich
 <br>
-<span style="font-size: 1.3em;">
-  <span style="color:white">Twitter: </span>
-  <span style="color:white">https://twitter.com/</span>
-  <span style="color: #e49436">dirksiemers</span>
+Twitter: 
+<span style="font-size: 0.8em;">
+  https://twitter.com/<span style="color: #e49436">dirksiemers</span>
 </span>
 
 ---
