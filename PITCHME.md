@@ -39,7 +39,7 @@ HTTP-Header manipulieren
 
 ---
 
-## Philosophie
+# Philosophie
 <br>
 ### <span style="color: #e49436">Don’t repeat yourself.</span>
 ### <span style="color: #e49436">Convention over Configuration.</span>
