@@ -92,10 +92,9 @@ end
 ```shell
 $ rails _5.1.4_ new serom-demo
 $ cd serom-demo
+$ ls -p
 $ bin/rails about
-$ bin/rails server
-
-open browser http://localhost:3000/
+$ code .
 ```
 
 +++
