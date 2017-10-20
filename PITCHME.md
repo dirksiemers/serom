@@ -191,6 +191,20 @@ $ bin/webpack-dev-server
 
 +++
 
+### <span style="color: #e49436">JS Testing</span>
+<br>
+
+```ruby
+# In test/system/products_test.rb
+assert_selector "h2", text: "Hello Dirk!"
+```
+
+```shell
+$ bin/rails test:system
+```
+
++++
+
 ### <span style="color: #e49436">Use Yarn</span>
 <br>
 
