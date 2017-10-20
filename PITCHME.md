@@ -10,10 +10,12 @@
 
 ## Über mich
 <br>
-Twitter: 
-<span style="font-size: 0.8em;">
-  https://twitter.com/<span style="color: #e49436">dirksiemers</span>
-</span>
+- <span style="font-size: 0.8em;">https://twitter.com/<span style="color: #e49436">dirksiemers</span></span>
+- <span style="font-size: 0.8em;">https://github.com/<span style="color: #e49436">dirksiemers</span></span>
+- <span style="font-size: 0.8em;">https://getpocket.com/<span style="color: #e49436">@dirksiemers</span></span>
+<br>
+#### Co-founder and Developer at @sovido
+
 
 ---
 @title[Rails]
